@@ -1,0 +1,5 @@
+runner\SerenityRunner.class
+pages\ForgotPwdPage.class
+pages\LoginPage.class
+pages\DashboardPage.class
+stepdefinitions\LoginOrangeTest.class
